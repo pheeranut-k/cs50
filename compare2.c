@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+int main (void)
 {
     int x;
     int y;
@@ -17,7 +17,7 @@ int main(void)
     }
     else if (x > y)
     {
-        printf("x is greather than y\n");
+        printf("x is greater than y\n");
     }
     else
     {
